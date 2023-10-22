@@ -1,1 +1,1 @@
-"# FoxyLang" 
+# FoxyLang

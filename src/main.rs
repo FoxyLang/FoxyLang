@@ -1,3 +1,3 @@
 fn main() {
-    println!("This is my first git");
+    println!("This is my second git");
 }
